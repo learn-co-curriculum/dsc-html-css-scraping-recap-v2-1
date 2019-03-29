@@ -3,7 +3,7 @@
 
 ## Introduction
 
-In this section you learned a lot about web pages and how to exploit their structure for your own web scraping purposes. Take this opportunity to briefly review some of the key take aways from the section.
+In this section, you learned a lot about web pages and how to exploit their structure for your own web scraping purposes. Take this opportunity to briefly review some of the key takeaways from the section.
 
 ## Objectives
 
@@ -19,7 +19,7 @@ To start this section, you investigated the basic structure of an HTML page and 
 
 ## CSS
 
-After taking an initial look at HTML, you then saw the role CSS plays in styling a web page. You learned that HTML deals with content while CSS deals with style. There is certainly more that you could learn regarding CSS but an important take away is that CSS selectors can also be used while web scraping. For example, you can select a tag with `id` or `class` selector.
+After taking an initial look at HTML, you then saw the role CSS plays in styling a web page. You learned that HTML deals with content while CSS deals with style. There is certainly more you could learn regarding CSS but an important take away is that CSS selectors can also be used while web scraping. For example, you can select a tag with `id` or `class` selector.
 
 ## Beautiful Soup
 
@@ -27,16 +27,16 @@ After an initial exploration into web development, you then returned to Python a
 
 ## Precautions
 
-Remember to practice caution when scraping websites. Surfing the web at super human speeds will get you banned from many domains and may violate the terms & conditions of many websites that require login. As such, there are a few considerations you should take along your way.
+Remember to practice caution when scraping websites. Surfing the web at superhuman speeds will get you banned from many domains and may violate the terms & conditions of many websites that require you to login. As such, there are a few considerations you should take along your way.
 
-* Is there a terms and conditions for using the website?
+* Are there a terms and conditions for using the website?
 * Test your scraping bot on in small samples to debug before scaling to hundreds, thousands or millions of requests.
 * Start thinking about your IP address: getting blacklisted from a website is no fun. Consider using a VPN.
 * Slow your bot down! Add delays along the way with the time package. Specifically, time.sleep(seconds) adds wait time in a program.
 
 ## Other Scraping Tools
 
-While Beautiful Soup is a powerful go to tool for scraping the web, remember that there are other tools such as Selenium and Scrapy that have their own advantages and disadvantages. While Beautiful Soup is apt to be your primary scraping tool for now, its worth noting that there are other options should you feel like you need additional resources such as interacting with dynamic javascript based websites.
+While Beautiful Soup is a powerful go-to tool for scraping the web, remember that there are other tools such as Selenium and Scrapy that have their own advantages and disadvantages. While Beautiful Soup is apt to be your primary scraping tool, for now, it is worth noting that there are other options should you feel like you need additional resources such as interacting with dynamic javascript based websites.
 
 ## Summary
 
