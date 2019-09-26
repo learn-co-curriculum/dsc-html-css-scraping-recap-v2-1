@@ -7,10 +7,10 @@ In this section, you learned a lot about web pages and how to exploit their stru
 
 ## Objectives
 
-You will be able to:
+You will be able to: 
     
-    * Identify key takeaways from web design
-    * Recall precautions and best practices of web scraping
+   * Identify key takeaways from web design
+   * Recall precautions and best practices of web scraping
 
 ## HTML
 
