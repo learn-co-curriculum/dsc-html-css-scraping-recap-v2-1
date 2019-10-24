@@ -5,13 +5,6 @@
 
 In this section, you learned a lot about web pages and how to exploit their structure for your own web scraping purposes. Take this opportunity to briefly review some of the key takeaways from the section.
 
-## Objectives
-
-You will be able to: 
-    
-   * Identify key takeaways from web design
-   * Recall precautions and best practices of web scraping
-
 ## HTML
 
 
