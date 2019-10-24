@@ -7,8 +7,9 @@ In this section, you learned a lot about web pages and how to exploit their stru
 
 ## HTML
 
-
 To start this section, you investigated the basic structure of an HTML page and saw both the nested structure as well as some of the basic tags that you later leveraged for web scraping. This included `a` tags for links and `div` tags which act as general containers for other HTML code blocks.
+
+If you are interested in taking a deeper dive into the world of HTML, check out the additional HTML lessons in the Appendix which cover more advanced topics. 
 
 ## CSS
 
